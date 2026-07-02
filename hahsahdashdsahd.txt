@@ -1,3 +1,0 @@
-hit upgrade.exe whenever your external is outdated 
-and if there is an update u would find out by 
-opening celestial.exe that's the main external you should mainly run for
